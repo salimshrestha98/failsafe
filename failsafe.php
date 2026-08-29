@@ -2,8 +2,8 @@
 /**
  * Plugin Name: FailSafe - Fatal Error Recovery
  * Description: Automatically detect & recover from plugin or theme crashes with smart error handling and instant recovery options.
- * Version: 1.0.0
- * Author: Salim Shrestha
+ * Version: 1.0.1
+ * Author: BodhiWP
  * Requires at least: 5.0
  * Tested up to: 6.9
  * Requires PHP: 7.4
